@@ -245,8 +245,8 @@ public class Welcome {
 
     }
 
-    public static void main(String[] args) {
-        Welcome wl = new Welcome();
-        wl.LoadingBar();
-    }
+//     public static void main(String[] args) {
+//         Welcome wl = new Welcome();
+//         wl.LoadingBar();
+//     }
 }
